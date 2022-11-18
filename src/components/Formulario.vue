@@ -80,7 +80,7 @@
         <br>
 
         <button class="btn btn-success my-3" :disabled="formState.$invalid">Enviar</button>
-      </vue-form>
+    </vue-form>
 
       <hr>
 
